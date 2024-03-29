@@ -1,0 +1,4 @@
+[packages]
+face_recognition = "*"
+opencv-python = "*"
+pyttsx3 = "*"
