@@ -8,18 +8,16 @@ This project aims to develop a facial recognition system using artificial intell
    **Real-time Processing**: The system can process and recognize faces in real time, making it suitable for applications that require rapid identification.
 
 **Technical Details**
-    
-    **Programming Languages**: Python, OpenCV, and scikit-learn
+    **Programming Languages:** Python, OpenCV, and scikit-learn
     **Machine Learning Models:** Convolutional Neural Networks (CNNs) and Support Vector Machines (SVMs)
    **Database:** SQLite or MongoDB
     **Operating System:** Windows, Linux, or macOS
 
 **Project Structure**
-
-    data: Contains the dataset used for training and testing the machine learning models
-    models: Holds the trained machine learning models
-    src: Contains the source code for the facial recognition system
-    utils: Holds utility functions for data preprocessing, feature extraction, and visualization
+    **data**: Contains the dataset used for training and testing the machine learning models
+    **models**: Holds the trained machine learning models
+    **src**: Contains the source code for the facial recognition system
+    **utils**: Holds utility functions for data preprocessing, feature extraction, and visualization
 
 **How to Run**
 
